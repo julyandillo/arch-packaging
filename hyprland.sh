@@ -9,4 +9,8 @@ yay -S --needed --noconfirm \
     swaync \
     swayosd \
     hyprutils \
-    nwg-look
+    nwg-look \
+    udiskie \
+    ssdm
+
+sudo systemctl enable sddm.service
