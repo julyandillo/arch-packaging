@@ -9,6 +9,7 @@ yay -S --needed --noconfirm \
     ttf-meslo-nerd \
     ttf-dejavu \
     texlive-fontsextra \
+    woff2-font-awesome \
     # recomendadas en la wiki de arch para libreoffice
     ttf-carlito \
     ttf-caladea \
