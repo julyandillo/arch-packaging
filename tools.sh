@@ -5,5 +5,8 @@ yay -S --needed --noconfirm \
     eza \
     fzf \
     caligula \
+    ventoy-bin \
     xarchiver \
+    ripgrep \
+    bat \
     filezilla
