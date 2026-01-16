@@ -9,4 +9,12 @@ yay -S --needed --noconfirm \
     xarchiver \
     ripgrep \
     bat \
-    filezilla
+    filezilla \
+    tailspin \
+    remmina \
+    freerdp \
+    rustdesk \
+    tailtray \
+    anydesk-bin \
+    tailscale \
+    tail-tray

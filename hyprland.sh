@@ -10,7 +10,9 @@ yay -S --needed --noconfirm \
     swayosd \
     hyprutils \
     nwg-look \
+    nwg-bar \
     udiskie \
+    wl-clip-persist \
     ssdm
 
 sudo systemctl enable sddm.service

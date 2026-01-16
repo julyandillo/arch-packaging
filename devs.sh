@@ -3,7 +3,8 @@
 yay -S --needed --noconfirm \
     dbeaver \
     jetbrains-toolbox \
-    sublime-text \
+    sublime-text-4 \
     obsidian \
     meld \
-    gedit
+    gedit \
+    postman-bin
