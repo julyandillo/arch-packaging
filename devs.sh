@@ -7,4 +7,6 @@ yay -S --needed --noconfirm \
     obsidian \
     meld \
     gedit \
-    postman-bin
+    postman-bin \
+    neovim \
+    composer

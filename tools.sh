@@ -13,8 +13,12 @@ yay -S --needed --noconfirm \
     tailspin \
     remmina \
     freerdp \
-    rustdesk \
+    rustdesk-bin \
     tailtray \
     anydesk-bin \
     tailscale \
-    tail-tray
+    tail-tray \
+    stow \
+    starship \
+    okular \
+    ghostty

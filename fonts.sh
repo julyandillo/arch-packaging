@@ -10,8 +10,8 @@ yay -S --needed --noconfirm \
     ttf-dejavu \
     texlive-fontsextra \
     woff2-font-awesome \
-    # recomendadas en la wiki de arch para libreoffice
-    ttf-carlito \
     ttf-caladea \
+    ttf-carlito \
     ttf-liberation \
-    noto-fonts
+    noto-fonts \
+    otf-san-francisco
