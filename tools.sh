@@ -21,4 +21,9 @@ yay -S --needed --noconfirm \
     stow \
     starship \
     okular \
-    ghostty
+    fish \
+    wl-clipboard \
+    btop \
+    zapzap \
+    rsync \
+    vlc

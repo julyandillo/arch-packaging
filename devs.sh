@@ -9,4 +9,5 @@ yay -S --needed --noconfirm \
     gedit \
     postman-bin \
     neovim \
-    composer
+    composer \
+    php
