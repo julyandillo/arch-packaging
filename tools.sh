@@ -27,3 +27,5 @@ yay -S --needed --noconfirm \
     zapzap \
     rsync \
     vlc
+
+sudo systemctl enable --now tailscaled
