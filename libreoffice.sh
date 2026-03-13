@@ -5,4 +5,4 @@ sudo pacman -S --needed --noconfirm \
     libreoffice-fresh-es \
     hunspell \
     hunspell-en_us \
-    hunspell-es_any
+    hunspell-es_es
