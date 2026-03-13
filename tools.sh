@@ -27,6 +27,8 @@ yay -S --needed --noconfirm \
     zapzap \
     rsync \
     vlc \
-    ghostty
+    ghostty \
+    kitty \
+    kitty-term-info
 
 sudo systemctl enable --now tailscaled
