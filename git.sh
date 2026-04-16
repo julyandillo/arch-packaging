@@ -11,7 +11,6 @@ read -rp "Email para git: " git_email
 git config --global user.name "$git_name"
 git config --global user.email "$git_email"
 
-echo "✅ Configuración aplicada:"
 git config --global --get user.name
 git config --global --get user.email
 
@@ -21,3 +20,6 @@ git config --global alias.ck checkout
 
 git config --global init.defaultBranch main
 
+git config --global core.editor nvim
+
+echo "✅ Configuración aplicada:"
